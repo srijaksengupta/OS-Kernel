@@ -10,7 +10,7 @@ int shellUI(int argc, const char *argv[])
 {
     printf("Kernel 1.0 loaded!\n"
             "Welcome to the Srijak shell!\n"
-            "Version 1.0 Created January 2020\n");
+            "Version 2.0 Created February 2020\n");
 
     shell_memory_initialize();
 
